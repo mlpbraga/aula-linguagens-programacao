@@ -1,0 +1,6 @@
+a = int(input())
+
+if a > 50:
+    print('maior que 50')
+else:
+    print('menor ou igual a 50')
